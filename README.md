@@ -12,6 +12,8 @@ $ git clone
 ### Install dependencies
 npm install
 
+Axios and MateriaL-UI
+
 ### Add your Pixabay API key to .env 
  - https://pixabay.com/api/docs/
 
